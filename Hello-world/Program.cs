@@ -8,6 +8,7 @@ namespace Hello_world
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("My first app!");
+            Console.WriteLine("My first app!");
         }
     }
 }
