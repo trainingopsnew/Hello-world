@@ -6,7 +6,7 @@ namespace Hello_world
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World one two!");
+            Console.WriteLine("Hello World one two m!");
 
             Console.WriteLine("My first app!");
         }
